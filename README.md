@@ -33,8 +33,3 @@ El proyecto sigue una estructura por capas bien definida:
 | `GET` | `/excursion/terminados` | Muestra solo las excursiones terminadas (`estado = "TERMINADO"`). |
 | `GET` / `POST` | `/excursion/alta` | GET: Devuelve la plantilla vacía. POST: Da de alta una nueva excursión. |
 
-## 🚀 Cómo ejecutar el proyecto
-
-1. Clona este repositorio en tu máquina local:
-   ```bash
-   git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
